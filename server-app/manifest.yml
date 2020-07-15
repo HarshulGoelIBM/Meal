@@ -1,0 +1,6 @@
+applications:
+- name: mealHackApp
+  command: npm start
+  path: .
+  memory: 128M
+  instances: 1
